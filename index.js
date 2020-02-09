@@ -20,4 +20,5 @@ const me = {
   }
 };
 
-console.log(me["rank"]["name"]);
+console.log(me.name);
+console.log(me["name"]);

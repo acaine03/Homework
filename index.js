@@ -20,11 +20,8 @@ const me = {
   }
 };
 
-let myDateOfBirth = 09111983;
+let myDateOfBirth = 9111983;
 
-let myDateOfBirth = 04281990;
+let myBirthday = myDateOfBirth;
 
-const games = "mobile phone";
-
-console.log(me.name);
-console.log(me["name"]);
+console.log(me["date"]);

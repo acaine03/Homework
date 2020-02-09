@@ -21,7 +21,10 @@ const me = {
 };
 
 let myDateOfBirth = 09111983;
+
 let myDateOfBirth = 04281990;
+
+const games = "mobile phone";
 
 console.log(me.name);
 console.log(me["name"]);

@@ -20,5 +20,8 @@ const me = {
   }
 };
 
+let myDateOfBirth = 09111983;
+
+
 console.log(me.name);
 console.log(me["name"]);

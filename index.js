@@ -22,6 +22,8 @@ const me = {
 
 me.myDateOfBirth = 9111983;
 
-me.games = "mobile phone";
+me.games = "hobbies";
+
+const profile = me;
 
 console.log();

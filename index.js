@@ -20,8 +20,6 @@ const me = {
   }
 };
 
-let myDateOfBirth = 9111983;
+me.myDateOfBirth = 9111983;
 
-let myBirthday = myDateOfBirth;
-
-console.log(me["date"]);
+console.log();

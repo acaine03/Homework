@@ -22,4 +22,6 @@ const me = {
 
 me.myDateOfBirth = 9111983;
 
+me.games = "mobile phone";
+
 console.log();

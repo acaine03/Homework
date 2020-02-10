@@ -26,4 +26,4 @@ me.games = "hobbies";
 
 const profile = me;
 
-console.log();
+console.log(profile["name"]);

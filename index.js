@@ -22,8 +22,8 @@ const me = {
 
 me.myDateOfBirth = 9111983;
 
-me.games = "hobbies";
+me.branchOfService.home.games = "hobbies";
 
-const profile = me;
+// const profile = me;
 
-console.log(profile["name"]);
+console.log(me);
